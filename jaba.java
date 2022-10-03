@@ -1,5 +1,6 @@
 public class jaba {
     static void firstArray(short[] arr, short value){
+        
         for(int i = 0; i < 7; i++){
             arr[i] = value ;
             value += 2;
